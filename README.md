@@ -1,5 +1,5 @@
 
-This project was created for tracking Bank`s loans conditions and simplify calculating of Loan`s monthly payments
+This project was created for tracking Bank's loans conditions and simplify calculating of Loan's monthly payments
 
  Also, you can try it in deployed status on [firebase hosting](https://banks-a0cda.web.app/)
 
